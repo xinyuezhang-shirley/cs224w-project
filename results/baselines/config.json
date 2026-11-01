@@ -1,0 +1,13 @@
+{
+  "recency_tau": 10.0,
+  "node2vec": {
+    "dim": 64,
+    "walk_length": 20,
+    "walks_per_node": 10,
+    "window": 4,
+    "p": 1.0,
+    "q": 1.0,
+    "epochs": 2,
+    "num_neg": 5
+  }
+}

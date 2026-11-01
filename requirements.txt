@@ -1,0 +1,10 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+matplotlib
+torch
+torch_geometric
+sentence-transformers
+jupyterlab

@@ -1,0 +1,37 @@
+{
+  "exhibitions": 1787,
+  "exhibitions_with_curator": 1204,
+  "exhibitions_without_artists": 252,
+  "artists": 11273,
+  "curators": 316,
+  "artist_edges": 32537,
+  "curator_edges": 1483,
+  "artist_curator_overlap": 55,
+  "other_role_rows": {
+    "Installer": 150,
+    "Competition Judge": 132,
+    "Designer": 66,
+    "Arranger": 31,
+    "Preparer": 13,
+    "Curator": 10
+  },
+  "median_artists_per_exhibition": 5.0,
+  "frac_artists_single_exhibition": 0.6723143794908187,
+  "median_exhibitions_per_curator": 1.0,
+  "top_curators": {
+    "William S. Lieberman": 94,
+    "John Szarkowski": 80,
+    "Barbara London": 78,
+    "Riva Castleman": 61,
+    "Arthur Drexler": 60,
+    "Dorothy C. Miller": 40,
+    "William S. Rubin": 38,
+    "Alfred H. Barr, Jr.": 38,
+    "Bernice Rose": 34,
+    "Edward Steichen": 33
+  },
+  "artist_curator_pairs": 26761,
+  "artist_curator_density": 0.007512348874368801,
+  "frac_pairs_repeated": 0.14248346474346998,
+  "frac_returning_with_prior_curator": 0.4668929303278688
+}
