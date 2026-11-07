@@ -4,4 +4,4 @@ __pycache__/
 .DS_Store
 
 data/
-results/**/*_ranks.csv
+results/**/*.pt

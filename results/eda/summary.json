@@ -33,5 +33,7 @@
   "artist_curator_pairs": 26761,
   "artist_curator_density": 0.007512348874368801,
   "frac_pairs_repeated": 0.14248346474346998,
-  "frac_returning_with_prior_curator": 0.4668929303278688
+  "frac_returning_with_prior_curator": 0.4668929303278688,
+  "artists_in_collection": 4423,
+  "acquisitions_before_1990": 76565
 }
